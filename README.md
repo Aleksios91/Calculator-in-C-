@@ -1,2 +1,2 @@
 # Calculator-in-C-
-A Calculator in C++
+A Classic Calculator in C.
